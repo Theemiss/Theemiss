@@ -11,9 +11,9 @@
 - 📫 How to reach me: <midinfotn401@gmail.com>
 
 ### Languages
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)]
+![C](https://img.shields.io/badge/-C-000?&logo=C)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
