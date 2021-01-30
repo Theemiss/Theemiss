@@ -24,11 +24,3 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/Theemiss/simple_shell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Theemiss/printf">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
-
