@@ -11,8 +11,8 @@
 - 📫 How to reach me: <midinfotn401@gmail.com>
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)]
-![C](https://img.shields.io/badge/-C-000?&logo=C)]
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
