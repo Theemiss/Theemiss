@@ -1,6 +1,4 @@
 ### Hi There , I'm [Ahmed Belhaj]  👋
-### Hi there 👋
-
 
 - 🔭 I’m Software Engineer Student at @Holberton School
 - 🌱 I’m currently learning Python
