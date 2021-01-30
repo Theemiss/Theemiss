@@ -1,5 +1,9 @@
 ### Hi There , I'm [Ahmed Belhaj]  👋
 
+[![Twitter: WobblyWas](https://img.shields.io/twitter/follow/WobblyWas?style=social)](https://twitter.com/WobblyWas)
+[![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/Theemiss)
+
 - 🔭 I’m Software Engineer Student at @Holberton School
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on any project.
