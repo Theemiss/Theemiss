@@ -5,7 +5,7 @@
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/Theemiss)
 
 - 🔭 I’m Software Engineer Student at @Holberton School
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and Devops
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <midinfotn401@gmail.com>
