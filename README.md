@@ -5,7 +5,7 @@
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/Theemiss)
 
 - 🔭 I’m Software Engineer Student at @Holberton School
-- 🌱 I’m currently learning SQL and Devops
+- 🌱 I’m currently learning Ruby and C++
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <midinfotn401@gmail.com>
@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
