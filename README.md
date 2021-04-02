@@ -1,5 +1,5 @@
 ### Hi There , I'm [Ahmed Belhaj]  👋
-[![HitCount](http://hits.dwyl.com/Themis/{project}.svg)](http://hits.dwyl.com/Themis/{project})
+[![HitCount](http://hits.dwyl.com/Theemiss/{project}.svg)](http://hits.dwyl.com/Theemiss/{project})
 [![Twitter: WobblyWas](https://img.shields.io/twitter/follow/WobblyWas?style=social)](https://twitter.com/WobblyWas)
 [![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/Theemiss)
