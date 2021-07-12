@@ -4,8 +4,8 @@
 [![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/Theemiss)
 
-- 🔭 I’m Software Engineer Student at @Holberton School
-- 🌱 I’m currently learning Ruby and C++
+- 🔭 I’m Software Engineer and AR/VR Student  at @Holberton School
+- 🌱 I’m currently learning C# and unity
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <midinfotn401@gmail.com>
@@ -13,6 +13,7 @@
 ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScrip)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
