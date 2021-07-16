@@ -13,7 +13,6 @@
 ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScrip)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
