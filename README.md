@@ -5,7 +5,7 @@
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=for-the-badge&color=black)](https://github.com/Theemiss)
 [![Medium: Ahmed Belhaj](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black)](https://medium.com/@midinfotn401)
 
-- 🔭 I’m Software Engineer and AR/VR,Game Devoloper at @Holberton School
+- 🔭 I’m Software Engineer at @Holberton School and AR/VR,Game Devoloper 
 - 🌱 I’m currently learning C# and unity
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
