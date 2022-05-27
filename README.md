@@ -4,7 +4,8 @@
 [![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-ahmed-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=for-the-badge&color=black)](https://github.com/Theemiss)
 [![Medium: Ahmed Belhaj](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black)](https://medium.com/@midinfotn401)
-
+[![AngelList Ahmed Belhaj](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ahmed-belhaj)
+[![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/midinfotn401)
 - 🔭 I’m Software Engineer at @Holberton School and AR/VR,Game Devoloper 
 - 🌱 I’m currently learning C# and unity
 - 👯 I’m looking to collaborate on any project.
@@ -37,6 +38,7 @@ Bellow  currently or Previously used Stack
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Technologies and Tool ⚙️ 🖥
 
