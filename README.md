@@ -1,4 +1,4 @@
-# Hi There , I'm [Ahmed Belhaj]  👋
+# Hi There , I'm Ahmed   👋
 
 [![Twitter: WobblyWas](https://img.shields.io/twitter/follow/WobblyWas?style=for-the-badge&color=black)](https://twitter.com/WobblyWas)
 [![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-ahmed-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
