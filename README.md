@@ -6,8 +6,8 @@
 [![Medium: Ahmed Belhaj](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black)](https://medium.com/@midinfotn401)
 [![AngelList Ahmed Belhaj](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ahmed-belhaj)
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/midinfotn401)
-- 🔭 I’m Software Engineer at @Holberton School and AR/VR,Game Devoloper 
-- 🌱 I’m currently learning C# and unity
+- 🔭 I’m Software Engineer at @Holberton School Core Developer @tekouin-wescale and AR/VR,Game Devoloper 
+- 🌱 I’m currently learning AWS and Devops
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <ahmed.belhaj@holbertonschool.com>
