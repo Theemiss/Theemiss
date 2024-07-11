@@ -1,11 +1,16 @@
 # Hi There , I'm Ahmed   👋
 
+
 [![Twitter: WobblyWas](https://img.shields.io/twitter/follow/WobblyWas?style=for-the-badge&color=black)](https://twitter.com/WobblyWas)
 [![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-ahmed-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![GitHub Theemiss](https://img.shields.io/github/followers/Theemiss?label=follow&style=for-the-badge&color=black)](https://github.com/Theemiss)
 [![Medium: Ahmed Belhaj](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black)](https://medium.com/@midinfotn401)
 [![AngelList Ahmed Belhaj](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ahmed-belhaj)
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/midinfotn401)
+
+
+
+
 - 🔭 I’m Technical Manager at  @tekouin-wescale
 - I'm Devops , Cloud and Backend Developer 
 - 🌱 I’m currently learning System Architecture 
@@ -13,7 +18,11 @@
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <ahmedbelhaj.it@gamil.com>
 
+
+
 ## My Stack(used or still using)
+* [ :open_file_folder: RESUME PDF ](https://github.com/Theemiss/Theemiss/blob/main/Ahmed%20Belhaj%20-%20Resume%202024.pdf) 
+* [ :page_facing_up: RESUME Markdown ](https://github.com/Theemiss/Theemiss/blob/main/RESUME.md) 
 
 Bellow  currently or Previously used Stack
 
