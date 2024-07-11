@@ -2,7 +2,7 @@
 **Email:** ahmedbelhaj.it@gmail.com  
 
 **LinkedIn:** [Ahmed Belhaj](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)  
-**Phone:** +21621374471  
+**Phone:** +216 21 374 471  
 
 ***DevOps & Backend Developer***
 
