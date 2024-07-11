@@ -129,10 +129,10 @@ Role: Spearheaded the creation of a proof of concept and oversaw the test deploy
 
 **CERTIFICATIONS**
 
-- IBM DevOps, Cloud, and Agile Foundations (IBM)
-- Applied Software Engineering Fundamentals (IBM)
-- AWS Cloud Solutions Architect (AWS & Coursera)
-- Software Design and Architecture (Coursera)
-- Kubernetes Certified (Udemy)
-- Kubernetes Certified Application Developer (CKAD) (Udemy)
-- Linux for Cloud & DevOps Engineers (Udemy)
+- [IBM DevOps, Cloud, and Agile Foundations (IBM)](https://www.coursera.org/account/accomplishments/specialization/KVGGAZKBMFQY)
+- [Applied Software Engineering Fundamentals (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/45FYUC6SPJZP)
+- [AWS Cloud Solutions Architect (AWS & Coursera)](https://www.coursera.org/account/accomplishments/specialization/3DDJHD9RLFRV)
+- [Software Design and Architecture (Coursera)](https://www.coursera.org/account/accomplishments/specialization/8W3YZTBRPXDB)
+- [Kubernetes Certified Administrator (CKA) (Udemy)](https://www.udemy.com/certificate/UC-a99454d9-703f-44b0-8b8b-1761e3a94794/)
+- [Kubernetes Certified Application Developer (CKAD) (Udemy)](https://www.udemy.com/certificate/UC-a873ccd8-9456-4879-b579-f62e5b32690e/)
+- [Linux for Cloud & DevOps Engineers (Udemy)](https://www.udemy.com/certificate/UC-a99454d9-703f-44b0-8b8b-1761e3a94794/)
