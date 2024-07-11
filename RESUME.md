@@ -122,8 +122,8 @@ Role: Spearheaded the creation of a proof of concept and oversaw the test deploy
 **LANGUAGES**
 
 - English: Fluent
-- Arabic: Native
 - French: Professional
+- Arabic: Native
 
 ---
 
