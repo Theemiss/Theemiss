@@ -17,7 +17,7 @@
 
 ## About
 
-I lead **cloud platform and product engineering** for institutional learning at scale — from telecom LMS delivery and university deployments to internal developer platforms, FinOps, and cloud governance across a multi-account AWS estate.
+I lead **cloud platform and product engineering** for institutional learning at scale — telecom LMS delivery, university and executive-education deployments, internal developer platforms, and cloud governance across a multi-account AWS estate.
 
 **Currently:** Technical Manager & Platform Lead @ [Campusna](https://github.com/tekouin-wescale) · CTO & Co-founder @ [DarDev](https://dardev.net)
 
@@ -25,7 +25,7 @@ I lead **cloud platform and product engineering** for institutional learning at 
 |---|---|
 | **Learners served** | 40k+ across institutional deployments |
 | **Cloud estate** | 29-account AWS Organization · ECS/EKS · Terraform/IaC |
-| **Product surface** | 15+ Moodle plugins · LMS SDKs · payment & API integrations |
+| **Product surface** | 15+ Moodle plugins · payment & API integrations · multi-tenant LMS |
 | **Leadership** | 35-person peak org · platform, DevOps, and product teams |
 
 ---
@@ -41,26 +41,27 @@ Delivery                CI/CD · Helm · GitHub Actions · infrastructure modern
 
 ---
 
-## Featured repositories
+## Selected work
 
-| Repository | What it is |
-|------------|------------|
-| [**aws_monitor**](https://github.com/Theemiss/aws_monitor) | AWS Organizations cost monitoring — breakdowns, alerts, and FinOps reporting |
-| [**moodle_sdk**](https://github.com/Theemiss/moodle_sdk) | Typed Python SDK wrapping the Moodle REST API for platform automation |
-| [**Terraform-AWS-Examples**](https://github.com/Theemiss/Terraform-AWS-Examples) | Infrastructure-as-code patterns and reference modules on AWS |
-| [**devops-capstone-project**](https://github.com/Theemiss/devops-capstone-project) | End-to-end DevOps capstone — containers, pipelines, and cloud delivery |
+Most production code ships in **private** [@tekouin-wescale](https://github.com/tekouin-wescale) repos (platform monorepos, Helm charts, Moodle plugins, client stacks). Public proof is the **live platforms** below.
 
-> **Org delivery (private):** [@tekouin-wescale](https://github.com/tekouin-wescale) — platform monorepos, Helm charts, Moodle plugins, and production LMS stacks.
+### Campusna / Tekouin — platforms I operate
 
----
+| Platform | Role | Live |
+|----------|------|------|
+| **MTN Cameroon E-Campus** | Architecture, integrations, ECS/Moodle stack | [mtn-e-campus.campusna.com](https://mtn-e-campus.campusna.com/landing) |
+| **Online Dauphine** | University LMS deployment | [dauphine.campusna.com](https://dauphine.campusna.com/login) |
+| **Pristini** | Executive education & certification programs | [platform.tekouin-pristini.com](https://platform.tekouin-pristini.com/login) |
+| **ESB-Tekouin** | Institutional LMS | [esb-tekouin.com](https://esb-tekouin.com/login) |
 
-## Live platforms
+### DarDev — CTO & Co-founder
 
-| Deployment | Link |
-|------------|------|
-| MTN Cameroon E-Campus | [mtn-e-campus.campusna.com](https://mtn-e-campus.campusna.com/landing) |
-| DarDev (products & case studies) | [dardev.net](https://dardev.net) |
-| Holberton Tunisia workspace | [hbtn.dev](https://hbtn.dev) |
+| | |
+|---|---|
+| **Company** | [dardev.net](https://dardev.net) — products, case studies, engineering culture |
+| **20** | School operations SaaS (2026) |
+| **Hesabi** | Tunisia-focused ERP (2026) |
+| **Delivered** | Netverse, CleanCH, and client platform work |
 
 ---
 
