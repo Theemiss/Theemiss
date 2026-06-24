@@ -4,11 +4,10 @@
 
 ### Platform Engineering Lead · Technical Manager · CTO & Co-founder @ [DarDev](https://dardev.net)
 
-*Building multi-tenant EdTech platforms — AWS Organizations, internal developer platforms, and LMS product engineering.*
+*Cloud architecture, platform engineering, and product delivery.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--belhaj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![DarDev](https://img.shields.io/badge/dardev.net-111?style=flat-square)](https://dardev.net)
-[![Email](https://img.shields.io/badge/email-ahmedbelhaj.it%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedbelhaj.it@gmail.com)
 [![Location](https://img.shields.io/badge/Tunisia-2ea44f?style=flat-square)](https://github.com/Theemiss)
 
 </div>
@@ -17,66 +16,54 @@
 
 ## About
 
-I lead **cloud platform and product engineering** for institutional learning at scale — telecom LMS delivery, university and executive-education deployments, internal developer platforms, and cloud governance across a multi-account AWS estate.
+Platform and cloud engineering leadership — AWS, internal developer platforms, infrastructure-as-code, and multi-tenant product delivery.
 
-**Currently:** Technical Manager & Platform Lead @ [Campusna](https://github.com/tekouin-wescale) · CTO & Co-founder @ [DarDev](https://dardev.net)
-
-| | |
-|---|---|
-| **Learners served** | 40k+ across institutional deployments |
-| **Cloud estate** | 29-account AWS Organization · ECS/EKS · Terraform/IaC |
-| **Product surface** | 15+ Moodle plugins · payment & API integrations · multi-tenant LMS |
-| **Leadership** | 35-person peak org · platform, DevOps, and product teams |
+**CTO & Co-founder @ [DarDev](https://dardev.net)**
 
 ---
 
 ## Focus areas
 
 ```text
-Platform Engineering    AWS Organizations · IDP · landing zones · SCPs · SSO
-Cloud & FinOps          Cost visibility · rationalization · observability
-EdTech Product          Moodle · custom plugins · telecom LMS · multi-tenant SaaS
-Delivery                CI/CD · Helm · GitHub Actions · infrastructure modernization
+Platform Engineering    AWS · Kubernetes · Terraform · CI/CD · observability
+Cloud & FinOps          Cost visibility · governance · infrastructure modernization
+Product Engineering     APIs · integrations · scalable backend systems
+Leadership              Technical management · architecture · cross-team delivery
 ```
 
 ---
 
-## Selected work
-
-Most production code ships in **private** [@tekouin-wescale](https://github.com/tekouin-wescale) repos (platform monorepos, Helm charts, Moodle plugins, client stacks). Public proof is the **live platforms** below.
-
-### Campusna / Tekouin — platforms I operate
-
-| Platform | Role | Live |
-|----------|------|------|
-| **MTN Cameroon E-Campus** | Architecture, integrations, ECS/Moodle stack | [mtn-e-campus.campusna.com](https://mtn-e-campus.campusna.com/landing) |
-| **Online Dauphine** | University LMS deployment | [dauphine.campusna.com](https://dauphine.campusna.com/login) |
-| **Pristini** | Executive education & certification programs | [platform.tekouin-pristini.com](https://platform.tekouin-pristini.com/login) |
-| **ESB-Tekouin** | Institutional LMS | [esb-tekouin.com](https://esb-tekouin.com/login) |
-
-### DarDev — CTO & Co-founder
+## DarDev
 
 | | |
 |---|---|
-| **Company** | [dardev.net](https://dardev.net) — products, case studies, engineering culture |
-| **20** | School operations SaaS (2026) |
-| **Hesabi** | Tunisia-focused ERP (2026) |
-| **Delivered** | Netverse, CleanCH, and client platform work |
+| **Website** | [dardev.net](https://dardev.net) |
+| **Products** | 20 (school operations) · Hesabi (ERP) |
+| **Work** | Product engineering, platform architecture, client delivery |
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **DarDev** | [belhaj.ahmed@dardev.net](mailto:belhaj.ahmed@dardev.net) |
+| **Holberton School** | [ahmed.belhaj@holbertonschool.com](mailto:ahmed.belhaj@holbertonschool.com) |
+| **Campusna** | [ahmed.belhaj@campusna.com](mailto:ahmed.belhaj@campusna.com) |
+| **Personal** | [ahmedbelhaj.it@gmail.com](mailto:ahmedbelhaj.it@gmail.com) |
 
 ---
 
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Organizations%20%7C%20ECS%20%7C%20EKS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-ECS%20%7C%20EKS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Kubernetes-Helm-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-Backend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Moodle-EdTech-F98012?style=flat-square" alt="Moodle" />
-  <img src="https://img.shields.io/badge/Prometheus-Grafana-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
@@ -96,8 +83,6 @@ Most production code ships in **private** [@tekouin-wescale](https://github.com/
 
 <div align="center">
 
-**Open to platform engineering, cloud architecture, and technical leadership conversations.**
-
-[dardev.net](https://dardev.net) · [LinkedIn](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/) · [ahmedbelhaj.it@gmail.com](mailto:ahmedbelhaj.it@gmail.com)
+[dardev.net](https://dardev.net) · [LinkedIn](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 
 </div>
