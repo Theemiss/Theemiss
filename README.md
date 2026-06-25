@@ -6,11 +6,42 @@
 
 *Cloud architecture, platform engineering, and product delivery.*
 
+[![Portfolio](https://img.shields.io/badge/theemis.cloud-architecture%20portfolio-1a1a2e?style=flat-square)](https://www.theemis.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--belhaj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 [![DarDev](https://img.shields.io/badge/dardev.net-111?style=flat-square)](https://dardev.net)
 [![Location](https://img.shields.io/badge/Tunisia-2ea44f?style=flat-square)](https://github.com/Theemiss)
 
 </div>
+
+---
+
+## Portfolio
+
+**Architecture, systems, case studies, and CV:** [theemis.cloud](https://www.theemis.cloud)
+
+| | |
+|---|---|
+| **Systems** | [theemis.cloud/systems](https://www.theemis.cloud/systems) |
+| **Case studies** | [theemis.cloud/case-studies](https://www.theemis.cloud/case-studies) |
+| **Links & deployments** | [theemis.cloud/links](https://www.theemis.cloud/links) |
+| **CV (PDF)** | [theemis.cloud/Ahmed-Belhaj-CV.pdf](https://www.theemis.cloud/Ahmed-Belhaj-CV.pdf) |
+
+---
+
+## Pinned repositories
+
+Public templates that mirror patterns on the portfolio site (employer production stays private).
+
+| Repository | Portfolio context |
+|---|---|
+| [AWSManager](https://github.com/Theemiss/AWSManager) | [AWS Organization](https://www.theemis.cloud/systems/aws-organization) |
+| [moodle-platform-plugins](https://github.com/Theemiss/moodle-platform-plugins) | [Tekouin Platform](https://www.theemis.cloud/systems/tekouin-platform) |
+| [cloud-ide-auth-hub](https://github.com/Theemiss/cloud-ide-auth-hub) | [Internal Developer Platform](https://www.theemis.cloud/systems/internal-developer-platform) |
+| [moodle_sdk](https://github.com/Theemiss/moodle_sdk) | Moodle automation |
+| [ttyd_connect](https://github.com/Theemiss/ttyd_connect) | Browser terminals in K8s |
+| [Terraform-AWS-Examples](https://github.com/Theemiss/Terraform-AWS-Examples) | AWS IaC modules |
+
+Also: [platform-k8s-charts](https://github.com/Theemiss/platform-k8s-charts) · [moodle-load-test](https://github.com/Theemiss/moodle-load-test)
 
 ---
 
@@ -85,6 +116,6 @@ Leadership              Technical management · architecture · cross-team deliv
 
 <div align="center">
 
-[dardev.net](https://dardev.net) · [LinkedIn](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
+[theemis.cloud](https://www.theemis.cloud) · [dardev.net](https://dardev.net) · [LinkedIn](https://www.linkedin.com/in/ahmed-belhaj-bb845619b/)
 
 </div>
