@@ -16,9 +16,11 @@
 
 ## About
 
-Platform and cloud engineering leadership — AWS, internal developer platforms, infrastructure-as-code, and multi-tenant product delivery.
+Platform and cloud engineering leadership - AWS, internal developer platforms, infrastructure-as-code, and multi-tenant product delivery.
 
 **CTO & Co-founder @ [DarDev](https://dardev.net)**
+
+**Holberton School studies:** [repositories tagged `holberton-school`](https://github.com/Theemiss?tab=repositories&q=topic%3Aholberton-school)
 
 ---
 
